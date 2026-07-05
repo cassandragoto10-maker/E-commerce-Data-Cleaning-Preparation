@@ -1,7 +1,7 @@
-# DecodeLabs Internship Project 1: Data Cleaning & Preparation
+# E-commerce Data Cleaning & Preparation
 
 ## Project Overview
-This project represents the foundational phase of the DecodeLabs Data Analytics internship program. The objective was to transform a raw, messy e-commerce dataset into a "Gold Standard" dataset suitable for analysis and modeling.
+This project demonstrates professional data cleaning techniques on a real-world e-commerce dataset. The objective was to transform raw, messy data into a "Gold Standard" dataset suitable for analysis and modeling.
 
 ## Dataset Description
 The raw dataset contains 1,001 e-commerce orders with 14 columns:
@@ -65,7 +65,7 @@ The cleaning process was implemented using Python's Pandas library in a Google C
 | `Project1_Data_Cleaned.xlsx` | Final cleaned dataset with embedded Change_Log sheet |
 | `Project1_Data_Cleaned.csv` | Cleaned dataset in CSV format for easy viewing |
 | `Dataset for Data Analytics.xlsx` | Original raw dataset (preserved for reference) |
-| `decode_labs_project1_cleaning.py` | Python script containing all cleaning logic |
+| `data_cleaning_script.py` | Python script containing all cleaning logic |
 | `Project1_Change_Log.pdf` | PDF version of the change log |
 | `requirements.txt` | Python dependencies for reproducing the environment |
 | `README.md` | This documentation file |
